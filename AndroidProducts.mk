@@ -14,4 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_cepheus.mk
+    $(LOCAL_DIR)/device.mk \
+    $(LOCAL_DIR)/havoc_cepheus.mk
