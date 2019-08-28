@@ -1,0 +1,3 @@
+# Ignore all logging requests
+dontaudit hal_fingerprint storage_file:dir search;
+
